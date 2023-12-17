@@ -65,7 +65,7 @@ main li {
 
 main a {
     color: rgba(255, 0, 0, 0.678);
-    font-size: 2em;
+    font-size: 1.3em;
     text-decoration-line: none;
 }
 
@@ -81,6 +81,13 @@ main p {
 
 main p.sert {
     padding-top: 30px;
+}
+
+main a.back {
+    background-color: red;
+    color: white;
+    padding: 4px;
+    margin-left: 50%;
 }
 
 footer {
